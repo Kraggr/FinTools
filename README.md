@@ -25,3 +25,15 @@ A curated list of financial tools
 
 * https://www.bankrate.com/
 
+## Quant tools
+
+* https://github.com/LastAncientOne/Stock_Analysis_For_Quant
+
+## Value Investing
+
+* https://www.tradingview.com/chart/BRK.B/XmDl67ti-Value-investing-toolkit/
+
+
+## Crypto
+
+* https://www.binance.com/
