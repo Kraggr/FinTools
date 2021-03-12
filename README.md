@@ -19,6 +19,10 @@ A curated list of financial tools
 
 * https://toggle.ai
 
+## Finance Data
+
+* https://iexcloud.io/
+
 ## Finance Tools
 
 ### Bank Rates 
