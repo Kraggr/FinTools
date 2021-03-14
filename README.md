@@ -3,7 +3,7 @@ A curated list of financial tools
 
 # Contents 
 
-- Portfolio Management
+- (Portfolio Management)[#Portfolio Management ]
 - Trading
 - Finance Data
 - Finance Tools
@@ -21,7 +21,7 @@ A curated list of financial tools
 
 ## Finance Data
 
-* https://iexcloud.io/
+* https://iexcloud.io
 
 ## Finance Tools
 
