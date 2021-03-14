@@ -3,7 +3,7 @@ A curated list of financial tools
 
 # Contents 
 
-- (Portfolio Management)[#portfolio-management]
+- [Portfolio Management](#portfolio-management)
 - Trading
 - Finance Data
 - Finance Tools
