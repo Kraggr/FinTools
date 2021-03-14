@@ -13,6 +13,7 @@ A curated list of financial tools
 ## Portfolio Management 
 
 * https://www.portfoliovisualizer.com/
+* https://finbox.com/ideas
 
 
 ## Trading
