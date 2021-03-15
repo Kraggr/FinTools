@@ -4,10 +4,10 @@ A curated list of financial tools
 # Contents 
 
 - [Portfolio Management](#portfolio-management)
-- Trading
-- Finance Data
-- Finance Tools
-- Other lists 
+- [Technical Analysis](#tecnical-analysis)
+- [Data](#data)
+- [Tools](#tools)
+- [Crypto](#crypto)
 
 
 ## Portfolio Management 
@@ -16,25 +16,25 @@ A curated list of financial tools
 * https://finbox.com/ideas
 
 
-## Trading
+## Technical Analysis
 
 * https://toggle.ai
 
-## Finance Data
+## Data
 
 * https://iexcloud.io
 
-## Finance Tools
+## Tools
 
 ### Bank Rates 
 
 * https://www.bankrate.com/
 
-## Quant tools
+### Quant tools
 
 * https://github.com/LastAncientOne/Stock_Analysis_For_Quant
 
-## Value Investing
+### Value Investing Tools
 
 * https://www.tradingview.com/chart/BRK.B/XmDl67ti-Value-investing-toolkit/
 
