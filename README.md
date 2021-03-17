@@ -23,6 +23,7 @@ A curated list of financial tools
 ## Data
 
 * https://iexcloud.io
+* https://tikr.com/
 
 ## Tools
 
