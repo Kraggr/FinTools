@@ -39,6 +39,9 @@ A curated list of financial tools
 
 * https://www.tradingview.com/chart/BRK.B/XmDl67ti-Value-investing-toolkit/
 
+### Misc
+
+* https://squeezemetrics.com/monitor/dix
 
 ## Crypto
 
