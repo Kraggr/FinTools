@@ -14,6 +14,7 @@ A curated list of financial tools
 
 * https://www.portfoliovisualizer.com/
 * https://finbox.com/ideas
+* https://finary.eu/
 
 
 ## Technical Analysis
