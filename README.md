@@ -4,7 +4,7 @@ A curated list of financial tools
 # Contents 
 
 - [Portfolio Management](#portfolio-management)
-- [Technical Analysis](#tecnical-analysis)
+- [AI Tools](#ai-tools)
 - [Data](#data)
 - [Tools](#tools)
 - [Crypto](#crypto)
@@ -17,9 +17,10 @@ A curated list of financial tools
 * https://finary.eu/
 
 
-## Technical Analysis
+## AI Tools
 
 * https://toggle.ai
+* https://quantalytics.ai/
 
 ## Data
 
