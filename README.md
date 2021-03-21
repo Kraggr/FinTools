@@ -36,6 +36,7 @@ A curated list of financial tools
 ### Quant tools
 
 * https://github.com/LastAncientOne/Stock_Analysis_For_Quant
+* https://github.com/pmorissette/ffn
 
 ### Value Investing Tools
 
