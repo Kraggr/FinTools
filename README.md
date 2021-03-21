@@ -21,6 +21,7 @@ A curated list of financial tools
 
 * https://toggle.ai
 * https://quantalytics.ai/
+* https://github.com/stefan-jansen/machine-learning-for-trading
 
 ## Data
 
