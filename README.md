@@ -30,6 +30,8 @@ A curated list of financial tools
 
 ## Tools
 
+* https://github.com/DidierRLopes/GamestonkTerminal
+
 ### Bank Rates 
 
 * https://www.bankrate.com/
