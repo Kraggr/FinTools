@@ -49,6 +49,7 @@ A curated list of financial tools
 
 * https://squeezemetrics.com/monitor/dix
 * https://unbiastock.com/reddit.php
+* https://financialmodelingprep.com/developer/docs/formula
 
 ## Crypto
 
