@@ -40,6 +40,7 @@ A curated list of financial tools
 
 * https://github.com/LastAncientOne/Stock_Analysis_For_Quant
 * https://github.com/pmorissette/ffn
+* https://github.com/dcajasn/Riskfolio-Lib
 
 ### Value Investing Tools
 
