@@ -31,6 +31,7 @@ A curated list of financial tools
 ## Tools
 
 * https://github.com/DidierRLopes/GamestonkTerminal
+* https://finviz.com
 
 ### Bank Rates 
 
