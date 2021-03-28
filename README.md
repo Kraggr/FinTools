@@ -28,6 +28,10 @@ A curated list of financial tools
 
 * https://iexcloud.io
 * https://tikr.com/
+* https://www.alphavantage.co/
+* https://intrinio.com/
+* https://marketstack.com/
+* https://developer.tradier.com/
 
 ## Tools
 
@@ -53,6 +57,7 @@ A curated list of financial tools
 * https://squeezemetrics.com/monitor/dix
 * https://unbiastock.com/reddit.php
 * https://financialmodelingprep.com/developer/docs/formula
+* https://plaid.com/
 
 ## Crypto
 
