@@ -58,6 +58,7 @@ A curated list of financial tools
 * https://unbiastock.com/reddit.php
 * https://financialmodelingprep.com/developer/docs/formula
 * https://plaid.com/
+* https://www.bamsec.com/
 
 ## Crypto
 
