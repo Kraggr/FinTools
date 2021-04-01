@@ -37,6 +37,7 @@ A curated list of financial tools
 
 * https://github.com/DidierRLopes/GamestonkTerminal
 * https://finviz.com
+* https://www.multpl.com/
 
 ### Bank Rates 
 
@@ -52,6 +53,10 @@ A curated list of financial tools
 
 * https://www.tradingview.com/chart/BRK.B/XmDl67ti-Value-investing-toolkit/
 
+### ETFs
+
+* https://www.etf.com/
+
 ### Misc
 
 * https://squeezemetrics.com/monitor/dix
@@ -59,6 +64,7 @@ A curated list of financial tools
 * https://financialmodelingprep.com/developer/docs/formula
 * https://plaid.com/
 * https://www.bamsec.com/
+* https://www.dataroma.com/m/home.php
 
 ## Crypto
 
