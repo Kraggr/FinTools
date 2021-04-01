@@ -9,6 +9,9 @@ A curated list of financial tools
 - [Tools](#tools)
 - [Crypto](#crypto)
 
+## Brokers
+
+* https://robinhood.com/
 
 ## Portfolio Management 
 
