@@ -12,6 +12,7 @@ A curated list of financial tools
 ## Brokers
 
 * https://robinhood.com/
+* https://www.firstrade.com/
 
 ## Portfolio Management 
 
