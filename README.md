@@ -70,6 +70,7 @@ A curated list of financial tools
 * https://plaid.com/
 * https://www.bamsec.com/
 * https://www.dataroma.com/m/home.php
+* https://www.biopharmcatalyst.com/
 
 ## Crypto
 
