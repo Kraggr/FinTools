@@ -21,6 +21,7 @@ A curated list of financial tools
 * https://finbox.com/ideas
 * https://finary.eu/
 * https://www.macroaxis.com/
+* https://stonksmx.web.app/
 
 
 ## AI Tools
