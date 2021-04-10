@@ -44,6 +44,7 @@ A curated list of financial tools
 * https://github.com/DidierRLopes/GamestonkTerminal
 * https://finviz.com
 * https://www.multpl.com/
+* 
 
 ### Bank Rates 
 
@@ -54,6 +55,7 @@ A curated list of financial tools
 * https://github.com/LastAncientOne/Stock_Analysis_For_Quant
 * https://github.com/pmorissette/ffn
 * https://github.com/dcajasn/Riskfolio-Lib
+* https://github.com/letianzj/QuantResearch
 
 ### Value Investing Tools
 
