@@ -81,3 +81,4 @@ A curated list of financial tools
 * https://www.binance.com/
 * https://bitcointreasuries.org/
 * https://www.coindesk.com/
+* https://github.com/edeng23/binance-trade-bot
