@@ -9,6 +9,12 @@ A curated list of financial tools
 - [Tools](#tools)
 - [Crypto](#crypto)
 
+
+## Economic Data
+
+* https://oec.world/
+* https://fred.stlouisfed.org/
+
 ## Brokers
 
 * https://robinhood.com/
