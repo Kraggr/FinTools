@@ -12,8 +12,14 @@ A curated list of financial tools
 
 ## Economic Data
 
-* https://oec.world/
+* https://data.worldbank.org/
 * https://fred.stlouisfed.org/
+
+
+### Trade
+
+* https://oec.world/
+* https://www.marinetraffic.com/
 
 ## Brokers
 
