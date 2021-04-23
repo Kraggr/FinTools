@@ -26,6 +26,7 @@ A curated list of financial tools
 * https://robinhood.com/
 * https://www.firstrade.com/
 * https://www.webull.com/
+* https://alpaca.markets/
 
 ## Portfolio Management 
 
