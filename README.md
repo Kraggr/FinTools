@@ -80,6 +80,7 @@ A curated list of financial tools
 * https://etfdb.com/
 * https://cathiesark.com/
 * https://ark-funds.com/
+* https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 
 ### Misc
 
