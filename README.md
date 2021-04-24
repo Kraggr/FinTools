@@ -79,6 +79,7 @@ A curated list of financial tools
 * https://www.etf.com/
 * https://etfdb.com/
 * https://cathiesark.com/
+* https://ark-funds.com/
 
 ### Misc
 
