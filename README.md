@@ -57,7 +57,7 @@ A curated list of financial tools
 * https://github.com/DidierRLopes/GamestonkTerminal
 * https://finviz.com
 * https://www.multpl.com/
-* 
+* https://wallmine.com/
 
 ### Bank Rates 
 
@@ -92,6 +92,8 @@ A curated list of financial tools
 * https://www.bamsec.com/
 * https://www.dataroma.com/m/home.php
 * https://www.biopharmcatalyst.com/
+* https://stockrow.com/
+* https://www.lazyfa.com/
 
 ## Crypto
 
