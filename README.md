@@ -10,6 +10,10 @@ A curated list of financial tools
 - [Crypto](#crypto)
 
 
+## News
+* https://finviz.com/news.ashx
+
+
 ## Economic Data
 
 * https://data.worldbank.org/
