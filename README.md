@@ -62,6 +62,7 @@ A curated list of financial tools
 * https://finviz.com
 * https://www.multpl.com/
 * https://wallmine.com/
+* https://alternativeassets.club/
 
 ### Bank Rates 
 
