@@ -75,6 +75,7 @@ A curated list of financial tools
 * https://github.com/dcajasn/Riskfolio-Lib
 * https://github.com/letianzj/QuantResearch
 * https://github.com/google/tf-quant-finance
+* https://github.com/tudorelu/pyjuque
 
 ### Value Investing Tools
 
