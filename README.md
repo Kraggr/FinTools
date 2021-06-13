@@ -101,6 +101,7 @@ A curated list of financial tools
 * https://www.biopharmcatalyst.com/
 * https://stockrow.com/
 * https://www.lazyfa.com/
+* https://github.com/firefly-iii/firefly-iii
 
 ## Crypto
 
