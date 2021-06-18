@@ -102,6 +102,7 @@ A curated list of financial tools
 * https://stockrow.com/
 * https://www.lazyfa.com/
 * https://github.com/firefly-iii/firefly-iii
+* https://github.com/je-suis-tm/quant-trading
 
 ## Crypto
 
