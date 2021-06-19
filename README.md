@@ -46,6 +46,8 @@ A curated list of financial tools
 * https://toggle.ai
 * https://quantalytics.ai/
 * https://github.com/stefan-jansen/machine-learning-for-trading
+* https://github.com/achillesrasquinha/bulbea
+
 
 ## Data
 
