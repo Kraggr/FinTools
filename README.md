@@ -58,6 +58,7 @@ A curated list of financial tools
 * https://marketstack.com/
 * https://developer.tradier.com/
 * https://github.com/FinMind/FinMind
+* https://github.com/topics/financial-data
 
 ## Tools
 
