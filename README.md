@@ -107,6 +107,7 @@ A curated list of financial tools
 * https://www.lazyfa.com/
 * https://github.com/firefly-iii/firefly-iii
 * https://github.com/je-suis-tm/quant-trading
+* https://github.com/mr-karan/awesome-investing
 
 ## Crypto
 
