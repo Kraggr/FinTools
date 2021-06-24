@@ -108,6 +108,7 @@ A curated list of financial tools
 * https://github.com/firefly-iii/firefly-iii
 * https://github.com/je-suis-tm/quant-trading
 * https://github.com/mr-karan/awesome-investing
+* https://www.reddit.com/r/investing/
 
 ## Crypto
 
