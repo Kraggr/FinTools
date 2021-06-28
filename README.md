@@ -8,6 +8,7 @@ A curated list of financial tools
 - [Data](#data)
 - [Tools](#tools)
 - [Crypto](#crypto)
+- [Misc](#misc)
 
 
 ## News
