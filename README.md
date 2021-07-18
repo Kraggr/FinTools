@@ -118,6 +118,7 @@ A curated list of financial tools
 * https://bitcointreasuries.org/
 * https://www.coindesk.com/
 * https://github.com/edeng23/binance-trade-bot
+* https://github.com/edeng23/binance-trade-bot
 * https://www.coinbase.com/
 * https://ethermine.org/
 
