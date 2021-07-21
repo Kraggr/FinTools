@@ -60,6 +60,7 @@ A curated list of financial tools
 * https://developer.tradier.com/
 * https://github.com/FinMind/FinMind
 * https://github.com/topics/financial-data
+* https://www.insidermonkey.com/
 
 ## Tools
 
