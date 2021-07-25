@@ -126,3 +126,7 @@ A curated list of financial tools
 ## Software Tools
 
 * https://github.com/plotly/dash
+
+## Blogs
+
+* https://www.bridgewater.com/research-and-insights
