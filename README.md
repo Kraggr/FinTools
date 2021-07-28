@@ -87,6 +87,7 @@ A curated list of financial tools
 ### Value Investing Tools
 
 * https://www.tradingview.com/chart/BRK.B/XmDl67ti-Value-investing-toolkit/
+* https://finexy.com/
 
 ### ETFs
 
