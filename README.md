@@ -13,6 +13,7 @@ A curated list of financial tools
 
 ## News
 * https://finviz.com/news.ashx
+* https://www.reuters.com/
 
 
 ## Economic Data
