@@ -132,5 +132,3 @@ A curated list of financial tools
 ## Blogs
 
 * https://www.bridgewater.com/research-and-insights
-
-
