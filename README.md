@@ -99,6 +99,10 @@ A curated list of financial tools
 * https://www.ishares.com/us/products/etf-investments#!type=ishares&view=keyFacts
 * https://investor.vanguard.com/etf/list
 
+### Commodities
+
+* https://www.theice.com/
+
 ### Misc
 
 * https://squeezemetrics.com/monitor/dix
@@ -132,3 +136,4 @@ A curated list of financial tools
 ## Blogs
 
 * https://www.bridgewater.com/research-and-insights
+
