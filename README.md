@@ -129,6 +129,7 @@ A curated list of financial tools
 * https://github.com/edeng23/binance-trade-bot
 * https://www.coinbase.com/
 * https://ethermine.org/
+* https://defipulse.com/
 
 ## Software Tools
 
