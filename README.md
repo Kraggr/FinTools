@@ -130,6 +130,7 @@ A curated list of financial tools
 * https://www.coinbase.com/
 * https://ethermine.org/
 * https://defipulse.com/
+* https://coinmarketcap.com/
 
 ## Software Tools
 
