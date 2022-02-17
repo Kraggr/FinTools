@@ -132,6 +132,7 @@ A curated list of financial tools
 * https://ethermine.org/
 * https://defipulse.com/
 * https://coinmarketcap.com/
+* https://pools.fyi
 
 ## Software Tools
 
