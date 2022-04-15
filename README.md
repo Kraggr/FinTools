@@ -121,6 +121,7 @@ A curated list of financial tools
 * https://www.reddit.com/r/investing/
 * https://www.reddit.com/r/SecurityAnalysis/
 * https://stockbrain.io/
+* https://www.masterworks.io/
 
 ## Crypto
 
