@@ -134,6 +134,7 @@ A curated list of financial tools
 * https://defipulse.com/
 * https://coinmarketcap.com/
 * https://pools.fyi
+* https://github.com/ccxt/ccxt
 
 ## Software Tools
 
