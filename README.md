@@ -136,6 +136,7 @@ A curated list of financial tools
 * https://coinmarketcap.com/
 * https://pools.fyi
 * https://github.com/ccxt/ccxt
+* https://chartscout.io 
 
 ## Software Tools
 
