@@ -50,6 +50,7 @@ A curated list of financial tools
 * https://quantalytics.ai/
 * https://github.com/stefan-jansen/machine-learning-for-trading
 * https://github.com/achillesrasquinha/bulbea
+* https://congressionalstockbrain.com
 * https://ledge.bedrock-ai.com/
 
 
