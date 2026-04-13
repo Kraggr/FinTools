@@ -52,6 +52,7 @@ A curated list of financial tools
 * https://github.com/achillesrasquinha/bulbea
 * https://congressionalstockbrain.com
 * https://ledge.bedrock-ai.com/
+* https://heliumtrades.com/mcp-page/
 
 
 ## Data
