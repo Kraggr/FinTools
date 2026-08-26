@@ -74,7 +74,8 @@ A curated list of financial tools
 * https://wallmine.com/
 * https://alternativeassets.club/
 * https://www.financialaha.com/
-
+* https://www.vestinggap.com/
+  
 ### Bank Rates 
 
 * https://www.bankrate.com/
