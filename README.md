@@ -65,6 +65,7 @@ A curated list of financial tools
 * https://github.com/FinMind/FinMind
 * https://github.com/topics/financial-data
 * https://www.insidermonkey.com/
+* https://www.roic.ai/
 
 ## Tools
 
